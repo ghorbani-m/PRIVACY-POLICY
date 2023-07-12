@@ -25,7 +25,33 @@ For a better experience, while using our Service, we may require you to provide 
 
 - Location data (employee). NanoWatch collects this data when the NanoWatch app is running in the foreground (app open and on-screen) or background (app open but not on-screen) depending on your NanoWatch app settings and device permissions as well as whether you are using the platform as a employee. We collect precise or approximate location data from employee’s mobile devices if they enable us to do so. NanoWatch collects this data from the start tracking time until it is finished. We use this data to provide to your supervisors.NanoWatch collects employee location data, and links location data collected during a trip with their account.
 
-- Image information, we collect the user's image information, but It is not mandatory
+# Image Information Collection and Usage
+
+Our app collects and uses users' image information to enhance the user experience and provide certain features. By using our app, you consent to the collection, processing, and storage of your image information as described in this privacy policy.
+
+*Collection of Image Information:*
+
+We may collect and upload the following image information from your device:
+
+- Photos and images captured using the app's camera feature.
+- Photos and images selected from your device's gallery.
+*Purpose of Collection:*
+The collected image information is used for the following purposes:
+
+- Providing functionality within the app, such as editing or sharing images.
+- Enhancing the user experience and personalizing app features.
+- Enabling the app's artificial intelligence algorithms for image recognition or analysis.
+*Data Storage and Retention:*
+-We securely store and retain the uploaded image information for as long as necessary to fulfill the purposes outlined in this privacy policy. However, we do not store any personal identifying information associated with the images.
+
+*Third-Party Access:*
+- We do not share users' image information with third parties without your explicit consent unless required by law or as part of our legal obligations.
+
+*User Control and Rights:*
+
+- You can review, modify, or delete the image information uploaded by using the app's built-in functionalities.
+- If you wish to revoke your consent for the collection and usage of image information, you can uninstall the app.
+- For any questions or requests related to your image information, please contact us using the contact information provided at the end of this privacy policy.
 
 # Log Data
 
